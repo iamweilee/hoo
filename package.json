@@ -1,0 +1,22 @@
+{
+  "name": "7hoo",
+  "version": "0.0.1",
+  "description": "base tools library for nodejs",
+  "scripts": {
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamweilee/hoo.git"
+  },
+  "keywords": [
+    "tools",
+    "nodejs"
+  ],
+  "author": "weilee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iamweilee/hoo/issues"
+  },
+  "homepage": "https://github.com/iamweilee/hoo#readme"
+}
