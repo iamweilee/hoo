@@ -1,3 +1,3 @@
-# hoo
+# iguzhi utils
 
 封装了基础操作：lang, array, object, string, accmath, lrucache, observer, uuid, random ...

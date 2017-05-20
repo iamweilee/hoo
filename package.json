@@ -1,10 +1,8 @@
 {
-  "name": "7hoo",
-  "version": "0.0.4",
+  "name": "iguzhi",
+  "version": "0.0.5",
   "description": "base tools library for nodejs",
-  "scripts": {
-
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/iamweilee/hoo.git"
